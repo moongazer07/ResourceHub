@@ -1,11 +1,12 @@
 {% include analytics.html %}
-![Desktop Goose Resource Hub!](https://i.imgur.com/z2Q1REa.png)
+![Desktop Goose Resource Hub!](/assets/images/banner.png)
 
 ---
 
 [![Discord](https://img.shields.io/discord/717822718728470636?logo=discord&style=social)](https://discord.gg/xQhVPyX) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
+
 ---
 {% include launcher_advert.md %}
 
@@ -40,12 +41,10 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
-* [extra goose memes clean and modified version by GamerBoi153.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
 
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
-* [GamerBoi153's Notepad Pack](notepads/GamerBoi153sNotepad.md)
 
 ## FAQs 🤔❓
 
